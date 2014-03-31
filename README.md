@@ -5,16 +5,16 @@ Diary
 
 
 ## Get started!
-First clone or [download](http://) this repository:
+First clone or [download](https://github.com/GruPy-RN/agenda_flask/archive/master.zip) this repository:
 
 ```sh
-$ git clone git://github.com/diegotoral/diary
+$ git clone git@github.com:GruPy-RN/agenda_flask.git
 ```
 
 the next step is create a virtualenv to install all dependencies to:
 
 ```sh
-$ cd dairy
+$ cd agenda_flask
 $ vritualenv --no-site-packages .venv
 $ source .venv/bin/activate
 ```
